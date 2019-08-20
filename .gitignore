@@ -1,2 +1,7 @@
 .DS_Store
 .vagrant
+.idea
+perf.*
+*.svg
+*-cloudimg-console.log
+flamegraph-command.sh
